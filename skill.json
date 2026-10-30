@@ -1,0 +1,10 @@
+{
+  "name": "genpark-a2a-dating",
+  "version": "1.0.0",
+  "description": "GenPark A2A Dating - Agent-to-agent multi-attribute affinity vector scoring, Gale-Shapley Deferred Acceptance stable matching, and blocking pair equilibrium auditing with zero dependencies.",
+  "tools": [
+    "compute_multi_attribute_affinity_score",
+    "solve_gale_shapley_stable_matching",
+    "audit_match_stability_and_blocking_pairs"
+  ]
+}
